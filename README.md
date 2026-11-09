@@ -40,6 +40,7 @@ Semua file ada di halaman **[Releases](https://github.com/alimxtar/orkay/release
 
 - **Catat cepat:** cukup ketik `bakso 25rb gopay kemarin` atau `gaji 8,5jt bca, bensin 50k`. Orkay membaca nominal, tanggal, dompet, dan kategori, lalu menampilkannya untuk dicek sebelum disimpan. Pengenalannya makin pintar karena belajar dari catatanmu sendiri, dan semuanya diproses **offline di HP** tanpa AI cloud.
 - **Titip catatan dari layar kunci (opsional):** catat pengeluaran tanpa memasukkan kata sandi. Catatan dienkripsi dengan kunci publik, sehingga baru bisa dibaca dan diproses setelah Orkay dibuka. Ada juga pintasan **Catat cepat** saat ikon Orkay ditekan lama.
+- **Buka dengan sidik jari / wajah (Android):** kata sandi disimpan terenkripsi di chip keamanan HP dan hanya bisa dipakai setelah biometrik terverifikasi.
 - **Catat transaksi:** pemasukan, pengeluaran, dan transfer antar dompet (tunai, bank, e-wallet, kartu kredit).
 - **Lampiran nota:** foto struk atau PDF. Foto dikecilkan otomatis, lokasi GPS dibuang, dan file disimpan terenkripsi.
 - **Rencana:** anggaran per kategori, target tabungan, transaksi rutin otomatis (gaji, sewa, langganan), serta utang & piutang.
