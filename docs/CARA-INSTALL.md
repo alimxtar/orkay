@@ -5,9 +5,9 @@ ORKAY — aplikasi catatan keuangan pribadi
 Gratis, tanpa iklan, tanpa akun, jalan offline. Datamu terenkripsi dan hanya tersimpan di perangkatmu sendiri.
 ==========================================================================================================
 
-HP ANDROID  (file: Orkay-1.0.0.apk)
+HP ANDROID  (file: Orkay-1.1.0.apk)
 ------------------------------------
-1. Simpan file Orkay-1.0.0.apk ke HP (dari WhatsApp / Google Drive / kabel data).
+1. Simpan file Orkay-1.1.0.apk ke HP (dari WhatsApp / Google Drive / kabel data).
 2. Buka file tersebut. Jika muncul "Untuk keamanan, HP tidak diizinkan memasang aplikasi dari sumber ini",
    ketuk "Setelan" lalu aktifkan "Izinkan dari sumber ini", kemudian kembali dan ketuk "Instal".
 3. Jika muncul peringatan Play Protect ("aplikasi tidak dikenal"), ketuk "Info selengkapnya" → "Tetap instal".
@@ -15,9 +15,9 @@ HP ANDROID  (file: Orkay-1.0.0.apk)
 4. Buka Orkay dari daftar aplikasi.
 Butuh Android 7.0 atau lebih baru.
 
-LAPTOP / PC WINDOWS  (file: Orkay-Setup-1.0.0.exe)
+LAPTOP / PC WINDOWS  (file: Orkay-Setup-1.1.0.exe)
 --------------------------------------------------
-1. Jalankan Orkay-Setup-1.0.0.exe.
+1. Jalankan Orkay-Setup-1.1.0.exe.
 2. Jika muncul layar biru "Windows protected your PC" (SmartScreen), klik "More info" → "Run anyway".
    (Muncul karena installer belum memakai sertifikat tanda tangan berbayar.)
 3. Ikuti langkah instalasi. Ikon Orkay akan ada di Desktop dan Start Menu.
